@@ -10,6 +10,7 @@ Horiseon is a webpage for a marketing agency, providing information on their ser
 [Horiseon](https://sschu99.github.io/module1-challenge/)
 
 <br>
+
 ![Horiseon webpage]("./assets/01-html-css-git-homework-demo.png")
 
 ## Built With
