@@ -11,7 +11,7 @@ Horiseon is a webpage for a marketing agency, providing information on their ser
 
 <br>
 
-![Horiseon webpage]("./assets/01-html-css-git-homework-demo.png")
+![Horiseon webpage](./assets/images/horiseon-webpage-screenshot.jpg)
 
 ## Built With
 
