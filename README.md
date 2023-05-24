@@ -27,6 +27,6 @@ Distributed under the MIT License.
 ## Acknowledgements
 
 * [Source code:](https://github.com/sschu99/module1-challenge/tree/main/source-code)
-* [CSS Tricks](https://css-tricks.com/how-to-section-your-html/)
-* [w3 Schools](https://www.w3schools.com/html/html5_semantic_elements.asp)
-* [Plural Sight](https://www.pluralsight.com/guides/semantic-html)
+* [CSS Tricks](https://css-tricks.com/how-to-section-your-html/) How to section your HTML
+* [w3 Schools](https://www.w3schools.com/html/html5_semantic_elements.asp) HTML Semantic Elements
+* [Plural Sight](https://www.pluralsight.com/guides/semantic-html) Semantic HTML
